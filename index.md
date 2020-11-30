@@ -17,8 +17,8 @@
 <p>The Lakewood SMP is a Discord and Minecraft Server created for all to enjoy! We are a community here, and we just want to have the best time doing what we all love. We might not have very many people at the moment, but we are working to grow this community and make it stronger.</p>
 
 <div class="contents><h2>Contents:</h2>
-            <a href="founders"><li>The Founders</a>
-                              <a href="accomplishments"><li>What we've done</a>
+            <a href="#founders"><li>The Founders</a>
+                              <a href="#accomplishments"><li>What we've done</a>
                                                        
                                                        </div>
                                                        
