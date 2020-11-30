@@ -3,6 +3,11 @@
   text-align: center;
   margin: 25px;
   }
+  
+  h1 {
+  text-align: center;
+  margin: 25px;
+  }
 </style>
 
 <h1>Welcome to the Lakewood SMP</h1>
@@ -10,3 +15,12 @@
 <h2>What is it?</h2>
 
 <p>The Lakewood SMP is a Discord and Minecraft Server created for all to enjoy! We are a community here, and we just want to have the best time doing what we all love. We might not have very many people at the moment, but we are working to grow this community and make it stronger.</p>
+
+<div class="contents><h2>Contents:</h2>
+            <a href="founders"><li>The Founders</a>
+                              <a href="accomplishments"><li>What we've done</a>
+                                                       
+                                                       </div>
+                                                       
+<div class="founders"><h2>The Founders</h2>
+  <p>The founders of this server were two friends who had just left a different server due to tyranny, and issues with the administrator. They decided to create their first Minecraft server together on a paid hosting website. One of them was the sponsor, while the other did all the technical work. Eventually, things didn't turn out how they'd hoped and they lost sufficient funds after many months of server hosting. One of the founders took all of the files and placed them onto a safe drive to find them a new home. He eventually was able to build a server computer in his closet, and he put the files there. The server lived on from there.</p>
