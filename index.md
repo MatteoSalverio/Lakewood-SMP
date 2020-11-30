@@ -18,6 +18,10 @@
 
 <h2>Contents:</h2>
 * <a href="#founders">The Founders</a>
+* <a href="#accomplishments">What we've done</a>
                                                        
 <div class="founders"><h2>The Founders</h2>
   <p>The founders of this server were two friends who had just left a different server due to tyranny, and issues with the administrator. They decided to create their first Minecraft server together on a paid hosting website. One of them was the sponsor, while the other did all the technical work. Eventually, things didn't turn out how they'd hoped and they lost sufficient funds after many months of server hosting. One of the founders took all of the files and placed them onto a safe drive to find them a new home. He eventually was able to build a server computer in his closet, and he put the files there. The server lived on from there.</p></div>
+  
+<div class="accomplishments"><h2>What we've done</h2>
+  <p></p></div>
