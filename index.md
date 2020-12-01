@@ -13,10 +13,6 @@
         text-align: center;
         margin: 25px;
       }
-      
-      body {
-      margin: 2em
-      }
   
     </style>
  </head>
